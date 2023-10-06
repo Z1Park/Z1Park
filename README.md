@@ -2,8 +2,10 @@
 
 <p>
   <img height="180em" src=https://badge42.vercel.app/api/v2/cli2zuoy0003008kyfah4m49q/stats?cursusId=21&coalitionId=86>
+</p>
+<p>
   <img height="180em" src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwon119>
- </p>
+</p>
 
 <p>
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Z1Park&show_icons=true&theme=radical>
